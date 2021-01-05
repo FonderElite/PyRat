@@ -46,4 +46,6 @@ Please make sure to update tests as appropriate.
 * Port Forwarding
 * Social Engineering Tactics
 
-## Otherwise this will fail 100%
+# Otherwise this will fail 100%
+
+- Note: **You can change the slave.py bind((ip=yourip,port)) then pass the slave.py to your victim.**
